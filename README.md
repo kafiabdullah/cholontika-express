@@ -2,7 +2,7 @@
 
 This is the simple React Application. This application helps to the city people to travel the city.
 
-# Live Link Of this project: https://cholontika-riders-74fcb.web.app/
+# Live Link Of this project: https://cholontika-express.web.app/
 
 ## Application Feature
 

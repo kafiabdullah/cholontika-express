@@ -15,6 +15,10 @@ import {googleProvider} from '../../config/firebase';
 import {Link} from 'react-router-dom'
 import RootContainer from '../Layout/RootContainer';
 import {CircularProgress} from '@material-ui/core';
+import './SignIn.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGoogle } from '@fortawesome/free-brands-svg-icons';
+
 
 const useStyles = makeStyles((theme) => ({
     paper: {
@@ -169,8 +173,8 @@ export default function SignIn({history}) {
                 </div>
 
                 <div className="login-buttons">
-                    <button className="login-provider-button" onClick={signInWithGoogle}>
-                        <img src="https://img.icons8.com/ios-filled/50/000000/google-logo.png" alt="google icon"/>
+                    <button className="login-provider-button google-btn" onClick={signInWithGoogle}>
+                    <FontAwesomeIcon icon={faGoogle}/>
                         <span> Continue with Google</span>
                     </button>
                 </div>
