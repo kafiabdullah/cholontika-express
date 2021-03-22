@@ -1,0 +1,88 @@
+{
+  "transports": [
+    {
+      "id": 1,
+      "name": "bike",
+      "person": 4,
+      "price": 35,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame_r78nzc.png"
+    },
+    {
+      "id": 2,
+      "name": "bike",
+      "person": 4,
+      "price": 35,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame_r78nzc.png"
+    },
+    {
+      "id": 3,
+      "name": "bike",
+      "person": 4,
+      "price": 35,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame_r78nzc.png"
+    },
+    {
+      "id": 4,
+      "name": "car",
+      "person": 4,
+      "price": 67,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Frame-2_pil4oa.png"
+    },
+    {
+      "id": 5,
+      "name": "car",
+      "person": 4,
+      "price": 67,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Frame-2_pil4oa.png"
+    },
+    {
+      "id": 6,
+      "name": "car",
+      "person": 4,
+      "price": 67,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Frame-2_pil4oa.png"
+    },
+    {
+      "id": 7,
+      "name": "bus",
+      "person": 4,
+      "price": 25,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame-1_bvbl4u.png"
+    },
+    {
+      "id": 8,
+      "name": "bus",
+      "person": 4,
+      "price": 25,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame-1_bvbl4u.png"
+    },
+    {
+      "id": 9,
+      "name": "bus",
+      "person": 4,
+      "price": 25,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225365/cholontika%20riders/Frame-1_bvbl4u.png"
+    },
+    {
+      "id": 10,
+      "name": "train",
+      "person": 4,
+      "price": 20,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Group_dzb0bu.png"
+    },
+    {
+      "id": 11,
+      "name": "train",
+      "person": 4,
+      "price": 20,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Group_dzb0bu.png"
+    },
+    {
+      "id": 12,
+      "name": "train",
+      "person": 4,
+      "price": 20,
+      "image": "https://res.cloudinary.com/de7sncenm/image/upload/v1616225366/cholontika%20riders/Group_dzb0bu.png"
+    }
+  ]
+}
