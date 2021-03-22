@@ -1,0 +1,14 @@
+.destination-container{}
+.destination-form{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.destination-form .search-btn{
+    padding: 2px 0px;
+}
+.destination-btn{}
+.destination-btn img{
+    width: 28px;
+}
+.destination-btn .btn-content img{}

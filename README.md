@@ -1,4 +1,4 @@
-# Cholontika Riders
+# Cholontika Express
 
 This is the simple React Application. This application helps to the city people to travel the city.
 

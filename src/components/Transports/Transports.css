@@ -1,0 +1,16 @@
+.transport-container a {
+  text-decoration: none;
+}
+.transport-card a{
+  text-decoration: none !important;
+}
+.transport-container .cards {
+  text-align: center;
+  align-items: center;
+  border-radius: 10px;
+  height: 250px;
+}
+.cards img {
+  width: 50%;
+  margin: 10% auto;
+}
